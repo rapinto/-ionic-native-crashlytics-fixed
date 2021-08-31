@@ -1,0 +1,24 @@
+{
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "main": "bundle.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "ionic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapinto/-ionic-native-crashlytics-fixed.git"
+  },
+  "name": "@ionic-native/firebase-crashlytics-fixed",
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "version": "5.36.0",
+  "_resolved": "https://registry.npmjs.org/@ionic-native/firebase-crashlytics/-/firebase-crashlytics-5.36.0.tgz",
+  "_integrity": "sha512-cKLLHUdusYQLjFK481CDPwv1tNO3Qun8ae+eKl9KCOgvMJKaAqGecoInJaOhC9f1JXnMOZe4s7JKxbDL8cJ9NA==",
+  "_from": "@ionic-native/firebase-crashlytics@5.36.0"
+}
